@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/lockup-horizontal-dark.png" alt="Terecode" width="100%" />
+  <img src="assets/lockup-horizontal-dark.png" alt="Terecode" width="100%" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/tereniumhq/terecode-proc">compiler</a> · <a href="https://github.com/terecode-dsl/terecode-dsl-web">website</a>
+  <a href="assets/">assets</a>
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,react,vue,angular,svelte,git&titles=true" alt="TypeScript, React, Vue, Angular, Svelte, and Git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,react,vue,angular,svelte,git&titles=true" alt="Technology stack" />
   </a>
 </div>
 
